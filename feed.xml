@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>每日无线通讯简报</title>
-    <link>https://cdn.jsdelivr.net/gh/showayer-prog/news-digest-podcast@main</link>
+    <link>https://showayer-prog.github.io/news-digest-podcast</link>
     <language>zh-CN</language>
     <copyright>© 2026 徐炜</copyright>
     <itunes:subtitle>AI 自动生成的每日无线通讯与友商动态语音摘要</itunes:subtitle>
@@ -23,7 +23,7 @@
       <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年7月29日）。今日要点：6G 竞争进入「标准前地缘结盟」阶段：美国 NTIA 牵头 20~25 国发布《6G 领导力与安全行动倡议》，设定一个月内指定各国 6G 联络人、一年内面对面评审的硬时间表，直指 WRC-27 频谱分配与 IMT-2030 标准主导权；印度 Bharat 6G 联盟晒出 7700 件专利、高通在越南力推 6G 布局，6G 竞争重心正从技术研发转向政策与联盟卡位。；AI-RAN 技术路线分歧公开化：诺基亚首次松口正在评估在 6G massive MIMO 射频单元中引入 Nvidia GPU 承担 L1 处理，宣称 2028 年可实现频谱效率翻倍，与爱立信自研神经网络加速器约 10% 增益的保守路线正面交锋；同时 ZTE/MTN 现网节能 13.5%、Rakuten 获日本政府资助在乌克兰做 Open RAN 实地测试，AI 进 RAN 从概念加速走向工程与商业验证。；芯片商围绕「代理式 AI」重排算力版图：Arm 打破 35 年 IP 授权模式首次自售 136 核 CPU（Meta、SK Telecom 为首批客户），AMD 借 Advancing AI 2026 锁定微软 Azure Helios 机架部署与 Core Scientific 2.5GW 数据中心容量，Intel 服务器 CPU 靠 AI 主机需求录得 15 年最强单季增长——通用算力厂商与电信基础设施的边界加速融合。</itunes:summary>
       <enclosure url="news_digest_audio_20260729.mp3" type="audio/mpeg" length="3600720"/>
       <guid isPermaLink="false">news-digest-20260729</guid>
-      <pubDate>Wed, 29 Jul 2026 23:23:36 +0800</pubDate>
+      <pubDate>Wed, 29 Jul 2026 23:45:51 +0800</pubDate>
       <itunes:duration>600</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
