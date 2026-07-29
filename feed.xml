@@ -17,14 +17,14 @@
     <itunes:category text="News"/><itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>每日无线通讯简报 · 2026年7月29日</title>
-      <itunes:title>每日无线通讯简报 · 2026年7月29日</itunes:title>
-      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年7月29日）。今日要点：6G 竞争进入「标准前地缘结盟」阶段：美国 NTIA 牵头 20~25 国发布《6G 领导力与安全行动倡议》，设定一个月内指定各国 6G 联络人、一年内面对面评审的硬时间表，直指 WRC-27 频谱分配与 IMT-2030 标准主导权；印度 Bharat 6G 联盟晒出 7700 件专利、高通在越南力推 6G 布局，6G 竞争重心正从技术研发转向政策与联盟卡位。；AI-RAN 技术路线分歧公开化：诺基亚首次松口正在评估在 6G massive MIMO 射频单元中引入 Nvidia GPU 承担 L1 处理，宣称 2028 年可实现频谱效率翻倍，与爱立信自研神经网络加速器约 10% 增益的保守路线正面交锋；同时 ZTE/MTN 现网节能 13.5%、Rakuten 获日本政府资助在乌克兰做 Open RAN 实地测试，AI 进 RAN 从概念加速走向工程与商业验证。；芯片商围绕「代理式 AI」重排算力版图：Arm 打破 35 年 IP 授权模式首次自售 136 核 CPU（Meta、SK Telecom 为首批客户），AMD 借 Advancing AI 2026 锁定微软 Azure Helios 机架部署与 Core Scientific 2.5GW 数据中心容量，Intel 服务器 CPU 靠 AI 主机需求录得 15 年最强单季增长——通用算力厂商与电信基础设施的边界加速融合。</description>
-      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年7月29日）。今日要点：6G 竞争进入「标准前地缘结盟」阶段：美国 NTIA 牵头 20~25 国发布《6G 领导力与安全行动倡议》，设定一个月内指定各国 6G 联络人、一年内面对面评审的硬时间表，直指 WRC-27 频谱分配与 IMT-2030 标准主导权；印度 Bharat 6G 联盟晒出 7700 件专利、高通在越南力推 6G 布局，6G 竞争重心正从技术研发转向政策与联盟卡位。；AI-RAN 技术路线分歧公开化：诺基亚首次松口正在评估在 6G massive MIMO 射频单元中引入 Nvidia GPU 承担 L1 处理，宣称 2028 年可实现频谱效率翻倍，与爱立信自研神经网络加速器约 10% 增益的保守路线正面交锋；同时 ZTE/MTN 现网节能 13.5%、Rakuten 获日本政府资助在乌克兰做 Open RAN 实地测试，AI 进 RAN 从概念加速走向工程与商业验证。；芯片商围绕「代理式 AI」重排算力版图：Arm 打破 35 年 IP 授权模式首次自售 136 核 CPU（Meta、SK Telecom 为首批客户），AMD 借 Advancing AI 2026 锁定微软 Azure Helios 机架部署与 Core Scientific 2.5GW 数据中心容量，Intel 服务器 CPU 靠 AI 主机需求录得 15 年最强单季增长——通用算力厂商与电信基础设施的边界加速融合。</itunes:summary>
-      <enclosure url="news_digest_audio_20260729.mp3" type="audio/mpeg" length="3600720"/>
-      <guid isPermaLink="false">news-digest-20260729</guid>
-      <pubDate>Thu, 30 Jul 2026 00:24:49 +0800</pubDate>
-      <itunes:duration>600</itunes:duration>
+      <title>每日无线通讯简报 · 2026年7月30日</title>
+      <itunes:title>每日无线通讯简报 · 2026年7月30日</itunes:title>
+      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年7月30日）。今日要点：6G 地缘联盟从倡议进入结盟落地阶段：美国 NTIA「6G 领导力与安全行动倡议」一天内获英、德、法、意、日、韩、澳、加等 20 余国政府正式背书，欧洲集体站队；同时 3GPP 六月全会已启动 6G 需求定义，首批规范性协议研究定于 2027 年 9 月——面向 WRC-27 上海大会的标准前卡位战全面展开。；换商成本经济学正在撕裂西方共识：GSMA 报告公开称欧盟全面替换华为代价过高、应学会与其共处，与欧盟及爱立信、诺基亚立场直接冲突；同日有报道称中国收紧外企电信设备安全审查、诺基亚爱立信在华承压——设备市场的地缘割裂从美中对抗扩展为欧盟内部分歧与中欧摩擦的双线格局。；AI for Network 进入可计费场景的兑现期：MTN 南非与中兴现网商用试验 AI 闭环节能、单站能耗降 13.5%（常规特性仅 2.8%），爱立信联手 LG Uplus 把语音 AI 嵌入网络并推进 AI-native 演进——在 AI-RAN 架构之争以外，节能与网络内生语音成为 AI 最先规模变现的两个入口。</description>
+      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年7月30日）。今日要点：6G 地缘联盟从倡议进入结盟落地阶段：美国 NTIA「6G 领导力与安全行动倡议」一天内获英、德、法、意、日、韩、澳、加等 20 余国政府正式背书，欧洲集体站队；同时 3GPP 六月全会已启动 6G 需求定义，首批规范性协议研究定于 2027 年 9 月——面向 WRC-27 上海大会的标准前卡位战全面展开。；换商成本经济学正在撕裂西方共识：GSMA 报告公开称欧盟全面替换华为代价过高、应学会与其共处，与欧盟及爱立信、诺基亚立场直接冲突；同日有报道称中国收紧外企电信设备安全审查、诺基亚爱立信在华承压——设备市场的地缘割裂从美中对抗扩展为欧盟内部分歧与中欧摩擦的双线格局。；AI for Network 进入可计费场景的兑现期：MTN 南非与中兴现网商用试验 AI 闭环节能、单站能耗降 13.5%（常规特性仅 2.8%），爱立信联手 LG Uplus 把语音 AI 嵌入网络并推进 AI-native 演进——在 AI-RAN 架构之争以外，节能与网络内生语音成为 AI 最先规模变现的两个入口。</itunes:summary>
+      <enclosure url="news_digest_audio_20260730.mp3" type="audio/mpeg" length="4326336"/>
+      <guid isPermaLink="false">news-digest-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 07:07:11 +0800</pubDate>
+      <itunes:duration>721</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
