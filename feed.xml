@@ -17,14 +17,14 @@
     <itunes:category text="News"/><itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>每日无线通讯简报 · 2026年8月1日</title>
-      <itunes:title>每日无线通讯简报 · 2026年8月1日</itunes:title>
-      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月1日）。今日要点：设备商靠「定制芯片 + 能效」筑高 RAN 竞争壁垒：今日焦点是 NTT DOCOMO 商用部署爱立信 RAN Processor 6672 基带，爱立信自此在 Docomo、SoftBank、KDDI 三家日本运营商全部落定自研 EMCA ASIC 方案。「容量翻倍 + 能耗降五成 + 符合 O-RAN」正成为设备商竞标 5G-Advanced 与 AI-RAN 的硬门槛。；6G 竞赛从技术研发前移到「频谱 + 联盟 + 安全」的国家级卡位：美国 NTIA 圈定 4.4 GHz 作为 6G 研究频段，欧盟经 Horizon Europe 注资 Shield-6G 打造 AI 原生安全底座，越南组建 6G 指导委员会抢标准席位，美国国防部则押注 OCUDU/OTFS 开源路线另起炉灶——各方都在标准冻结前锁定筹码。；AI 与新空口能力从「网络卖点」落到「可计费、可部署」的具体场景：AI-RAN 被韩国等押注为赢得 6G 标准的关键并配套国家级超级 AI 网络投入，AT&amp;T 与爱立信把现网 5G 基站变成无源「雷达」（3GPP R19 集成感知通信），印度则修订网络中立以放开 5G 切片差异化收费。</description>
-      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月1日）。今日要点：设备商靠「定制芯片 + 能效」筑高 RAN 竞争壁垒：今日焦点是 NTT DOCOMO 商用部署爱立信 RAN Processor 6672 基带，爱立信自此在 Docomo、SoftBank、KDDI 三家日本运营商全部落定自研 EMCA ASIC 方案。「容量翻倍 + 能耗降五成 + 符合 O-RAN」正成为设备商竞标 5G-Advanced 与 AI-RAN 的硬门槛。；6G 竞赛从技术研发前移到「频谱 + 联盟 + 安全」的国家级卡位：美国 NTIA 圈定 4.4 GHz 作为 6G 研究频段，欧盟经 Horizon Europe 注资 Shield-6G 打造 AI 原生安全底座，越南组建 6G 指导委员会抢标准席位，美国国防部则押注 OCUDU/OTFS 开源路线另起炉灶——各方都在标准冻结前锁定筹码。；AI 与新空口能力从「网络卖点」落到「可计费、可部署」的具体场景：AI-RAN 被韩国等押注为赢得 6G 标准的关键并配套国家级超级 AI 网络投入，AT&amp;T 与爱立信把现网 5G 基站变成无源「雷达」（3GPP R19 集成感知通信），印度则修订网络中立以放开 5G 切片差异化收费。</itunes:summary>
-      <enclosure url="news_digest_audio_20260801.mp3" type="audio/mpeg" length="2908512"/>
-      <guid isPermaLink="false">news-digest-20260801</guid>
-      <pubDate>Sat, 01 Aug 2026 07:11:20 +0800</pubDate>
-      <itunes:duration>484</itunes:duration>
+      <title>每日无线通讯简报 · 2026年8月2日</title>
+      <itunes:title>每日无线通讯简报 · 2026年8月2日</itunes:title>
+      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月2日）。今日要点：频谱治理正在从单纯的资源拍卖转向产业主权与地缘博弈的抓手：加拿大把 24.25–25.1GHz 毫米波纳入本地专网非竞争性许可、加纳以「本地控股 51%」新规推迟 5G 频谱拍卖、19 名美国两党议员联名要求 FCC 与 NTIA 在 WRC-27 上海会议上守住 6GHz 免许可 Wi-Fi。谁掌握频谱规则，谁就掌握下一轮网络建设的准入门槛。；监管机构对 5G 的角色正从「发牌照」转向「追责与兑现」：印度电信部因 2022 年频谱最低覆盖义务未达标向 Vodafone Idea 开出 2683 万卢比违约金，美国 FAA 敲定抗 5G 干扰无线电高度表的 2030 与 2034 两阶段硬期限，FCC 则明确 Dish 24 亿美元信托基金只能用于外部建网伙伴。与此同时乌克兰基辅 5G 开通首日单网流量突破 25TB，说明需求侧的兑现能力并不缺席。；6G 与存量网络挖潜正在两端同时发力：中国进入国家 6G 试验第二阶段，从 6GHz 实验频率审批推进到端到端系统验证；阿联酋 e&amp; 与哈利法大学直接把通感一体（ISAC）的三十多个用例做成 Sensing-as-a-Service 变现框架。另一端，中国移动 5G-A 超级上行与摩洛哥 Inwi 联手华为的 1.8/2.1GHz 8T8R 双频方案，则代表运营商在等待 6G 期间靠上行能力与站点效率维持竞争力。</description>
+      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月2日）。今日要点：频谱治理正在从单纯的资源拍卖转向产业主权与地缘博弈的抓手：加拿大把 24.25–25.1GHz 毫米波纳入本地专网非竞争性许可、加纳以「本地控股 51%」新规推迟 5G 频谱拍卖、19 名美国两党议员联名要求 FCC 与 NTIA 在 WRC-27 上海会议上守住 6GHz 免许可 Wi-Fi。谁掌握频谱规则，谁就掌握下一轮网络建设的准入门槛。；监管机构对 5G 的角色正从「发牌照」转向「追责与兑现」：印度电信部因 2022 年频谱最低覆盖义务未达标向 Vodafone Idea 开出 2683 万卢比违约金，美国 FAA 敲定抗 5G 干扰无线电高度表的 2030 与 2034 两阶段硬期限，FCC 则明确 Dish 24 亿美元信托基金只能用于外部建网伙伴。与此同时乌克兰基辅 5G 开通首日单网流量突破 25TB，说明需求侧的兑现能力并不缺席。；6G 与存量网络挖潜正在两端同时发力：中国进入国家 6G 试验第二阶段，从 6GHz 实验频率审批推进到端到端系统验证；阿联酋 e&amp; 与哈利法大学直接把通感一体（ISAC）的三十多个用例做成 Sensing-as-a-Service 变现框架。另一端，中国移动 5G-A 超级上行与摩洛哥 Inwi 联手华为的 1.8/2.1GHz 8T8R 双频方案，则代表运营商在等待 6G 期间靠上行能力与站点效率维持竞争力。</itunes:summary>
+      <enclosure url="news_digest_audio_20260802.mp3" type="audio/mpeg" length="4278384"/>
+      <guid isPermaLink="false">news-digest-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 07:09:54 +0800</pubDate>
+      <itunes:duration>713</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
