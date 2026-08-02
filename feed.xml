@@ -17,14 +17,14 @@
     <itunes:category text="News"/><itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>每日无线通讯简报 · 2026年8月2日</title>
-      <itunes:title>每日无线通讯简报 · 2026年8月2日</itunes:title>
-      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月2日）。今日要点：频谱治理正在从单纯的资源拍卖转向产业主权与地缘博弈的抓手：加拿大把 24.25–25.1GHz 毫米波纳入本地专网非竞争性许可、加纳以「本地控股 51%」新规推迟 5G 频谱拍卖、19 名美国两党议员联名要求 FCC 与 NTIA 在 WRC-27 上海会议上守住 6GHz 免许可 Wi-Fi。谁掌握频谱规则，谁就掌握下一轮网络建设的准入门槛。；监管机构对 5G 的角色正从「发牌照」转向「追责与兑现」：印度电信部因 2022 年频谱最低覆盖义务未达标向 Vodafone Idea 开出 2683 万卢比违约金，美国 FAA 敲定抗 5G 干扰无线电高度表的 2030 与 2034 两阶段硬期限，FCC 则明确 Dish 24 亿美元信托基金只能用于外部建网伙伴。与此同时乌克兰基辅 5G 开通首日单网流量突破 25TB，说明需求侧的兑现能力并不缺席。；6G 与存量网络挖潜正在两端同时发力：中国进入国家 6G 试验第二阶段，从 6GHz 实验频率审批推进到端到端系统验证；阿联酋 e&amp; 与哈利法大学直接把通感一体（ISAC）的三十多个用例做成 Sensing-as-a-Service 变现框架。另一端，中国移动 5G-A 超级上行与摩洛哥 Inwi 联手华为的 1.8/2.1GHz 8T8R 双频方案，则代表运营商在等待 6G 期间靠上行能力与站点效率维持竞争力。</description>
-      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月2日）。今日要点：频谱治理正在从单纯的资源拍卖转向产业主权与地缘博弈的抓手：加拿大把 24.25–25.1GHz 毫米波纳入本地专网非竞争性许可、加纳以「本地控股 51%」新规推迟 5G 频谱拍卖、19 名美国两党议员联名要求 FCC 与 NTIA 在 WRC-27 上海会议上守住 6GHz 免许可 Wi-Fi。谁掌握频谱规则，谁就掌握下一轮网络建设的准入门槛。；监管机构对 5G 的角色正从「发牌照」转向「追责与兑现」：印度电信部因 2022 年频谱最低覆盖义务未达标向 Vodafone Idea 开出 2683 万卢比违约金，美国 FAA 敲定抗 5G 干扰无线电高度表的 2030 与 2034 两阶段硬期限，FCC 则明确 Dish 24 亿美元信托基金只能用于外部建网伙伴。与此同时乌克兰基辅 5G 开通首日单网流量突破 25TB，说明需求侧的兑现能力并不缺席。；6G 与存量网络挖潜正在两端同时发力：中国进入国家 6G 试验第二阶段，从 6GHz 实验频率审批推进到端到端系统验证；阿联酋 e&amp; 与哈利法大学直接把通感一体（ISAC）的三十多个用例做成 Sensing-as-a-Service 变现框架。另一端，中国移动 5G-A 超级上行与摩洛哥 Inwi 联手华为的 1.8/2.1GHz 8T8R 双频方案，则代表运营商在等待 6G 期间靠上行能力与站点效率维持竞争力。</itunes:summary>
-      <enclosure url="news_digest_audio_20260802.mp3" type="audio/mpeg" length="4278384"/>
-      <guid isPermaLink="false">news-digest-20260802</guid>
-      <pubDate>Sun, 02 Aug 2026 07:09:54 +0800</pubDate>
-      <itunes:duration>713</itunes:duration>
+      <title>每日无线通讯简报 · 2026年8月3日</title>
+      <itunes:title>每日无线通讯简报 · 2026年8月3日</itunes:title>
+      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月3日）。今日要点：运营商的资本开支重心正从「建网」整体转向「AI 基础设施」：TELUS 砍掉 55% 股息、出售非核心资产为 AI 数据中心腾出弹药，LG U+ 追加 9.1 亿美元扩建首尔近郊 200MW 数据中心；但 Omdia 测算全球电信业 AI 变现目前仅约 40 亿美元规模，投入的确定性明显高于回报的确定性。；vRAN 的竞争焦点从「能不能虚拟化」转向「一台服务器能装多少网元」：三星联合 Juniper 与 Wind River，把虚拟小区站点路由器与 vRAN 基带整合进同一台服务器，用减少站点硬件件数来压低总拥有成本，说明开放架构的卖点正从解耦自由改写为站点经济性。；频谱议程在发达与新兴市场同步推进但诉求分化：欧洲围绕上 6GHz 归属展开移动阵营与 Wi-Fi 阵营的拉锯，加纳明确 700MHz、2.3GHz、3GHz 三个 5G 频段并延长申请期，越南与尼泊尔则把 5G 覆盖率和 6G 自主可控写进国家议程——频谱正从单纯的拍卖资源变成产业政策工具。</description>
+      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月3日）。今日要点：运营商的资本开支重心正从「建网」整体转向「AI 基础设施」：TELUS 砍掉 55% 股息、出售非核心资产为 AI 数据中心腾出弹药，LG U+ 追加 9.1 亿美元扩建首尔近郊 200MW 数据中心；但 Omdia 测算全球电信业 AI 变现目前仅约 40 亿美元规模，投入的确定性明显高于回报的确定性。；vRAN 的竞争焦点从「能不能虚拟化」转向「一台服务器能装多少网元」：三星联合 Juniper 与 Wind River，把虚拟小区站点路由器与 vRAN 基带整合进同一台服务器，用减少站点硬件件数来压低总拥有成本，说明开放架构的卖点正从解耦自由改写为站点经济性。；频谱议程在发达与新兴市场同步推进但诉求分化：欧洲围绕上 6GHz 归属展开移动阵营与 Wi-Fi 阵营的拉锯，加纳明确 700MHz、2.3GHz、3GHz 三个 5G 频段并延长申请期，越南与尼泊尔则把 5G 覆盖率和 6G 自主可控写进国家议程——频谱正从单纯的拍卖资源变成产业政策工具。</itunes:summary>
+      <enclosure url="news_digest_audio_20260803.mp3" type="audio/mpeg" length="4844592"/>
+      <guid isPermaLink="false">news-digest-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 07:12:44 +0800</pubDate>
+      <itunes:duration>807</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
