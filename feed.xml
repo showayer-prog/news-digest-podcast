@@ -17,14 +17,14 @@
     <itunes:category text="News"/><itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>每日无线通讯简报 · 2026年8月4日</title>
-      <itunes:title>每日无线通讯简报 · 2026年8月4日</itunes:title>
-      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月4日）。今日要点：6G 竞赛从「拉联盟」阶段转入「能否兑现」的拷问：美国主导的 6G 倡议虽获 25 国背书，但被指缺乏可信的供应链落地路径；与此同时业界争论的焦点已不是 6G 要不要 AI，而是 AI 应当落在网络的哪一层——英伟达主张把 RAN 硬件服务器化，传统设备商坚持专用硬件，9 月 3GPP 马德里会议将成为路线定调的关键节点。；运营商的 AI 战略从「买算力用工具」升级为「自治网络 + 自选算力路线」的系统工程：Telefónica 宣布 2030 年在西班牙、巴西、德国达成 L4 级自治网络；AT&amp;T 把 D-Wave 量子退火接入代理式 AI 做故障处置与派单优化；SK 电讯把 5000 亿参数主权大模型跑在韩国本土 NPU 单机上对标多机 GPU 集群，算力自主成为电信 AI 的新变量。；5G 的需求扩张与供给侧涨价正形成剪刀差：GSMA 测算欧盟强制替换华为中兴需 300 至 400 亿欧元、并推高设备价格约 24%，AI 数据中心又在抢占高频低损 PCB 产能、直接威胁基站与核心路由器供货；另一端中国 5G 连接数 2030 年将达 18 亿、南非把高需求频谱扩容 215%、印尼完成 700MHz 与 2.6GHz 频谱出售，需求侧仍在放量。</description>
-      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月4日）。今日要点：6G 竞赛从「拉联盟」阶段转入「能否兑现」的拷问：美国主导的 6G 倡议虽获 25 国背书，但被指缺乏可信的供应链落地路径；与此同时业界争论的焦点已不是 6G 要不要 AI，而是 AI 应当落在网络的哪一层——英伟达主张把 RAN 硬件服务器化，传统设备商坚持专用硬件，9 月 3GPP 马德里会议将成为路线定调的关键节点。；运营商的 AI 战略从「买算力用工具」升级为「自治网络 + 自选算力路线」的系统工程：Telefónica 宣布 2030 年在西班牙、巴西、德国达成 L4 级自治网络；AT&amp;T 把 D-Wave 量子退火接入代理式 AI 做故障处置与派单优化；SK 电讯把 5000 亿参数主权大模型跑在韩国本土 NPU 单机上对标多机 GPU 集群，算力自主成为电信 AI 的新变量。；5G 的需求扩张与供给侧涨价正形成剪刀差：GSMA 测算欧盟强制替换华为中兴需 300 至 400 亿欧元、并推高设备价格约 24%，AI 数据中心又在抢占高频低损 PCB 产能、直接威胁基站与核心路由器供货；另一端中国 5G 连接数 2030 年将达 18 亿、南非把高需求频谱扩容 215%、印尼完成 700MHz 与 2.6GHz 频谱出售，需求侧仍在放量。</itunes:summary>
-      <enclosure url="news_digest_audio_20260804.mp3" type="audio/mpeg" length="5354352"/>
-      <guid isPermaLink="false">news-digest-20260804</guid>
-      <pubDate>Tue, 04 Aug 2026 07:08:04 +0800</pubDate>
-      <itunes:duration>892</itunes:duration>
+      <title>每日无线通讯简报 · 2026年8月5日</title>
+      <itunes:title>每日无线通讯简报 · 2026年8月5日</itunes:title>
+      <description>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月5日）。今日要点：AI-RAN 进入国家主导与设备商落地双轨加速：韩国 Hyper-AI 网络示范把爱立信列为 AI-RAN 主力伙伴，SKT 以 7500 亿韩元押注 AI 数据中心与自研 A.X K2 模型，AI 正从技术卖点推向现网与算力投资。；开放/开源 RAN 阵营与 6G 标准前移同步提速：Intel 加入 OCUDU 开源 RAN 基金会，高通提出端到端 AI-Native 6G 基础设施战略，ETSI 发布首份 ISAC 通感一体报告界定 18 个 6G 用例。；频谱与产业政策成为 5G/6G 竞争的主杠杆：立陶宛 5G 频谱拍出、加纳推迟 5G 牌照截止日、印度将电子制造税收减免延至 2041 扶持电信基建，监管重心从发牌转向兑现与自主可控。</description>
+      <itunes:summary>AI 自动生成的每日无线通讯与友商动态语音摘要（2026年8月5日）。今日要点：AI-RAN 进入国家主导与设备商落地双轨加速：韩国 Hyper-AI 网络示范把爱立信列为 AI-RAN 主力伙伴，SKT 以 7500 亿韩元押注 AI 数据中心与自研 A.X K2 模型，AI 正从技术卖点推向现网与算力投资。；开放/开源 RAN 阵营与 6G 标准前移同步提速：Intel 加入 OCUDU 开源 RAN 基金会，高通提出端到端 AI-Native 6G 基础设施战略，ETSI 发布首份 ISAC 通感一体报告界定 18 个 6G 用例。；频谱与产业政策成为 5G/6G 竞争的主杠杆：立陶宛 5G 频谱拍出、加纳推迟 5G 牌照截止日、印度将电子制造税收减免延至 2041 扶持电信基建，监管重心从发牌转向兑现与自主可控。</itunes:summary>
+      <enclosure url="news_digest_audio_20260805.mp3" type="audio/mpeg" length="2462256"/>
+      <guid isPermaLink="false">news-digest-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 07:05:04 +0800</pubDate>
+      <itunes:duration>410</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
